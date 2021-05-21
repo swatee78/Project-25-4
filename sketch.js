@@ -32,7 +32,7 @@ console.log(this.paperImage)
 
 function draw() {
   rectMode(CENTER);
-  background(0);
+  background(230);
 
   paper.display();
   ground.display();
@@ -40,7 +40,7 @@ function draw() {
 //box2.display();
 //box3.display();
 dustbin.display();
-  drawSprites();
+ // drawSprites();
  
   
 
