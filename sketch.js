@@ -32,7 +32,7 @@ console.log(this.paperImage)
 
 function draw() {
   rectMode(CENTER);
-  background(0);
+//  background(0);
 
   paper.display();
   ground.display();
